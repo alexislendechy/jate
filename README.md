@@ -53,6 +53,8 @@ This will launch the application locally. Open your browser and go to http://loc
 
 3. Install the app by clicking the "Install!" button in the navigation bar.
 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
