@@ -1,4 +1,4 @@
-# TextEditor-PWA-
+# J.A.T.E.
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
 
@@ -36,10 +36,10 @@ Before running TextEditor-PWA-, you'll need the following software installed on 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/alexislendechy/TextEditor-PWA-
+   git clone https://github.com/alexislendechy/jate
 2. Navigate to the project directory:
    ```sh
-   cd TextEditor-PWA-/Develop
+   cd jate
 3. Install dependencies using npm:
     ```sh
     npm install 
@@ -47,7 +47,7 @@ Before running TextEditor-PWA-, you'll need the following software installed on 
 1. Start the development server:
     ```sh
     npm start
-This will launch the application locally. Open your browser and go to http://localhost:8080 to access the text editor.
+This will launch the application locally. Open your browser and go to http://localhost:3004 to access the text editor.
 
 2. Create and edit your text content. It will be automatically saved in IndexedDB.
 
